@@ -16,7 +16,7 @@ export default function Footer({ storeName, whatsappNumber }: FooterProps) {
               <span className="text-xl font-serif">{storeName}</span>
             </div>
             <p className="text-rose-300 text-sm leading-relaxed">
-              Joyería artesanal de lujo. Collares, aretes, pulseras, anillos y charms
+              Joyería de lujo. Collares, aretes, pulseras, anillos y charms
               diseñados para realzar tu belleza natural.
             </p>
           </div>
